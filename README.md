@@ -8,7 +8,7 @@ How to Run the Project:
 
 ***
 <ul>
-<li>Simply click on the link on the projects or bootstrap inspirations page to run the eyes project.</li>
+<li>Simply click on the link above to run the eyes project. There are also links on the projects and bootstrap innovations pages</li>
 <li>The creepy eyes will follow your mouse and may see into your soul. </li>
 <li>Try not to hum the song "I'll be watching you" after seeing this site.</li>
 </ul>

@@ -8,15 +8,15 @@ How to Run the Project:
 
 ***
 <ul>
-<li>After clicking on the Path to Harvard Project you will see a map of Boston</li>
-<li>Press the button to watch an animation marking the bus stops from MIT to Harvard University</li>
-<li>The map has been zoomed in so that the user can see points of interest along the route</li>
+<li>Simply click on the link on the projects or bootstrap inspirations page to run the eyes project.</li>
+<li>The creepy eyes will follow your mouse and may see into your soul. </li>
+<li>Try not to hum the song "I'll be watching you" after seeing this site.</li>
 </ul>
 
 
 ***
   
-Future improvements will include adding different maps and allowing the user to choose which city they are in and multiple bus routes in each city.
+Future improvements will include adding different backgrounds- imagine the outline of a cat or a bear or even a yeti. The user could choose which background they would like to see.  
 ***
   
 This repository is covered under an MIT License
